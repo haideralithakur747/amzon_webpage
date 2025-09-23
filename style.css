@@ -12,7 +12,7 @@
   display: flex;
   justify-content: flex-start;
   align-items: center;
-  /* justify-content: space-evenly; */
+   justify-content: space-evenly; 
 }
 .nav_logo {
   height: 50px;
@@ -59,7 +59,7 @@ left: 40px; */
 .nav_search {
   display: flex;
   justify-content: space-evenly;
-  /* background-color:sandybrown; */
+  
   width: 720px;
   height: 40px;
   border-radius: 4px;
@@ -353,6 +353,9 @@ ul {
   width: 100px;
   color: white;
    border-radius: 5px;
+}
+.s{
+  color: white;
 }
  .pannel-logo-eng{
   display: flex;
